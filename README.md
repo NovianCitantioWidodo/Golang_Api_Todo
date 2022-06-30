@@ -8,3 +8,4 @@ Fitur API
 - CRUD
 - email verification
 - forgot password
+- Swagger documentation
